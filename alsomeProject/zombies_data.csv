@@ -1,0 +1,22 @@
+﻿ID,名称,英文名称,攻击力,血量,特殊能力
+1,普通僵尸,Zombie,10,270,无
+2,路障僵尸,Conehead Zombie,10,560,路障提供额外保护
+3,铁桶僵尸,Buckethead Zombie,10,1370,铁桶提供额外保护
+4,撑杆僵尸,Pole Vaulting Zombie,10,340,可以跳过第一个植物
+5,橄榄球僵尸,Football Zombie,10,1650,高速移动，高血量
+6,舞王僵尸,Dancing Zombie,10,340,召唤伴舞僵尸
+7,伴舞僵尸,Backup Dancer,10,200,跟随舞王僵尸生成
+8,气球僵尸,Balloon Zombie,10,340,通过气球飞越植物
+9,投石车僵尸,Catapult Zombie,10,340,用投石车摧毁植物
+10,雪橇僵尸,Zomboni,10,1370,铺冰道并碾压植物
+11,海豚骑士僵尸,Dolphin Rider Zombie,10,340,可跳跃水中植物
+12,潜水僵尸,Snorkel Zombie,10,200,潜水以避开攻击
+13,跳舞僵尸,Dancing Zombie,10,340,召唤伴舞僵尸
+14,梯子僵尸,Ladder Zombie,10,670,放置梯子以穿越障碍物
+15,蹦极僵尸,Bungee Zombie,0,340,从空中抓走植物
+16,读报僵尸,Newspaper Zombie,10,340,报纸破裂后速度加快
+17,桶装僵尸,Screen Door Zombie,10,560,屏风门提供额外保护
+18,红眼巨人僵尸,Gargantuar,20,3000,超高血量，抛掷小鬼僵尸
+19,小鬼僵尸,Imp Zombie,10,100,被抛掷入场
+20,金盔僵尸,Gold Head Zombie,10,1370,金头盔提供更高保护
+21,僵王博士,Dr. Zomboss,50,15000,最终Boss，使用多种攻击

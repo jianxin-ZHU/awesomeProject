@@ -1,0 +1,32 @@
+﻿ID,名称,英文名称,伤害,血量,阳光消耗
+1,向日葵,Sunflower,0,300,50
+2,豌豆射手,Peashooter,20,300,100
+3,双发射手,Repeater,20 x 2,300,200
+4,坚果墙,Wall-nut,0,4000,50
+5,土豆雷,Potato Mine,爆炸,300,25
+6,樱桃炸弹,Cherry Bomb,爆炸,300,150
+7,火爆辣椒,Jalapeno,爆炸,300,125
+8,寒冰射手,Snow Pea,20,300,175
+9,小喷菇,Puff-shroom,20,150,0
+10,大喷菇,Fume-shroom,30,300,75
+11,巨型坚果,Tall-nut,0,8000,125
+12,三线射手,Threepeater,20 x 3,300,325
+13,地刺,Spikeweed,20,300,100
+14,火炬树桩,Torchwood,增加火焰伤害,300,175
+15,南瓜头,Pumpkin,0,4000,125
+16,双子向日葵,Twin Sunflower,0,300,150
+17,毁灭菇,Doom-shroom,爆炸,300,125
+18,小喷菇,Scaredy-shroom,20,300,25
+19,洋葱,Garlic,0,400,50
+20,大王花,Gloom-shroom,40,300,150
+21,磁力菇,Magnet-shroom,吸收金属,300,100
+22,翻转器,Umbrella Leaf,0,300,100
+23,吃人花,Chomper,单次吞噬,300,150
+24,仙人掌,Cactus,20,300,125
+25,海蘑菇,Sea-shroom,20,150,0
+26,高坚果,Tall Wall-nut,0,8000,125
+27,大喇叭菇,Blover,0,300,100
+28,玉米加农炮,Cob Cannon,爆炸,300,500
+29,洋葱,Garlic,0,400,50
+30,菌类控制菇,Hypno-shroom,控制僵尸,300,75
+31,咖啡豆,Coffee Bean,0,300,75
