@@ -1,0 +1,11 @@
+{
+  "pid": 27432,
+  "timestamp": "2024-10-29T20:32:45.096556",
+  "regions": [
+    {
+      "address": "0x400000",
+      "size": 4096,
+      "data_file": "memory_dump_27432_20241029_203245\\region_0.bin"
+    }
+  ]
+}
