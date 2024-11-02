@@ -149,10 +149,10 @@ class GameScanner:
                 print(f"扫描过程中出错: {str(e)}")
                 break
 
-
+# Demo_main
 def main():
 
-    scanner = GameScanner('game_data.csv', 'game_process.exe')
+    scanner = GameScanner('plants_data.csv', 'Plants.vs.Zombies.exe')
     try:
         scanner.scan_by_id('1001', 'health', interval=5, duration=30)
     except Exception as e:
